@@ -1,27 +1,27 @@
 {
-    "name": "BentoPDF",
-    "short_name": "BentoPDF",
+    "name": "BenitoPDF",
+    "short_name": "BenitoPDF",
     "description": "Free online PDF tools - Privacy-first PDF toolkit that works 100% in your browser",
-    "start_url": "/",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "#222222",
     "theme_color": "#4f46e5",
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "/images/favicon-192x192.png",
+            "src": "images/favicon-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "/images/favicon-512x512.png",
+            "src": "images/favicon-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable any"
         },
         {
-            "src": "/images/apple-touch-icon.png",
+            "src": "images/apple-touch-icon.png",
             "sizes": "180x180",
             "type": "image/png",
             "purpose": "any"
@@ -36,5 +36,7 @@
         "offline",
         "tools"
     ],
-    "screenshots": []
+    "screenshots": [],
+    "id": "./",
+    "scope": "./"
 }
